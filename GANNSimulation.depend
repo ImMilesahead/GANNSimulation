@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1492466028 source:c:\users\immilesahead\documents\programs\c++\gannsimulation\main.cpp
+	<ctime>
+	<iostream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"Creature.h"
+
+1492212542 source:c:\users\immilesahead\documents\programs\c++\gannsimulation\functions.cpp
+	"functions.h"
+	<cmath>
+	<string>
+
+1492212419 c:\users\immilesahead\documents\programs\c++\gannsimulation\functions.h
+	<string>
+
+1492236438 source:c:\users\immilesahead\documents\programs\c++\gannsimulation\src\neuralnetwork.cpp
+	"NeuralNetwork.h"
+	"../functions.h"
+	<fstream>
+	<cmath>
+	<cstdlib>
+
+1492463327 c:\users\immilesahead\documents\programs\c++\gannsimulation\include\neuralnetwork.h
+	<string>
+	<cmath>
+
+1492636013 source:c:\users\immilesahead\documents\programs\c++\gannsimulation\src\creature.cpp
+	"Creature.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"NeuralNetwork.h"
+
+1492635868 c:\users\immilesahead\documents\programs\c++\gannsimulation\include\creature.h
+	<string>
+	<SFML/Graphics.hpp>
+	"NeuralNetwork.h"
+
+1492456846 source:c:\users\immilesahead\documents\programs\c++\gannsimulation\src\board.cpp
+	"Board.h"
+
+1492315678 c:\users\immilesahead\documents\programs\c++\gannsimulation\include\board.h
+
